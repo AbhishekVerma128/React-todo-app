@@ -1,0 +1,46 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+    padding: 10px;
+    }
+h2{
+    color: black;
+    text-align: center;
+   padding-bottom: 10px;
+}
+
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+}
+input{
+    padding: 10px;
+    margin: 10px 0px 20px 110px;
+}
+#root{
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+#root{
+	background-color:rgb(136, 10, 31);
+    height: auto;
+    width: 600px;
+}
+#container{
+    margin: auto;
+}
+.list{
+  margin-left: 110px;
+  margin-bottom: 10px;
+  width: 350px;
+  background-color: rgb(15, 15, 86);
+  color: white;
+}
+span{
+    padding: 10px;
+}
